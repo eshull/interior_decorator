@@ -1,15 +1,18 @@
 .before {
   float: left;
   width: 33%;
+  background: red;
 }
 .during {
   float: left;
   width: 33%;
+  background: pink;
 }
 
 .after {
   float: left;
 width: 33%;
+background: yellow;
 }
 
 img {
